@@ -1,11 +1,12 @@
+
 # CE-QUAL-W2 — Tijuana River Estuary (TJRE) Model
 
 CE-QUAL-W2 (Corps of Engineers Width-Averaged 2-D model) is used in this repo to simulate hydrodynamic and water quality behavior in the Tijuana River Estuary, as part of this thesis project.
 
 ## Version & Platform
 
-- This repo is built for **CE-QUAL-W2 v4.5**. Files here (executables, examples, manual) are pinned to that version and may not match other versions available on the official CE-QUAL-W2 site.
-- **CE-QUAL-W2's executables are Windows-only.** They will not run natively on macOS.
+- This repo is built for **CE-QUAL-W2 v4.5**. Files here (executables and model runs) are pinned to that version and may not match other versions available on the official CE-QUAL-W2 site.
+- **CE-QUAL-W2's executables are Windows-only.** They will not run natively on macOS. Mac users will need to run the model through Boot Camp, a Windows VM (Parallels/VMware), or a separate Windows PC.
 - **File Maker executable:** earlier CE-QUAL-W2 versions required a separate File Maker executable to convert raw output text files (`.npt`/`.opt`) into `.csv` for analysis. **v4.5 no longer requires this step** — output files can be read directly.
 
 ## Repo Structure
@@ -13,12 +14,10 @@ CE-QUAL-W2 (Corps of Engineers Width-Averaged 2-D model) is used in this repo to
 | Folder | Contents |
 |---|---|
 | `Executables/` | `prew2.exe` (preprocessor), `w2.exe` (model), `w2post.exe` (post-processor / output viewer) — v4.5 only |
-| `Examples/` | Official CE-QUAL-W2 example model files |
-| `Manual/` | Official CE-QUAL-W2 v4.5 user manual |
-| `TJRE_runs/` | One folder per model run, each with input files, a spreadsheet of all runs' parameters, and a results/stats spreadsheet |
+| `TJRE_runs/` | One folder per model run, each with input files, a spreadsheet of that run's parameters, and a results/stats spreadsheet |
 | `Model_Analysis/` | R scripts for QA/QC and plotting model output against field observations |
 
-The Esecutables, Examples, and Manual are also available from the official CE-QUAL-W2 website; they're bundled here to pin the exact v4.5 versions used for this thesis and save you the download.
+This repo only contains what's needed to run the TJRE model itself — the general CE-QUAL-W2 manual and example models are not included here (see **Reference** below for where to find them).
 
 ## How to Run a Model
 
@@ -26,9 +25,6 @@ The Esecutables, Examples, and Manual are also available from the official CE-QU
 2. Download `Model_Analysis/` — you'll need it to check results later.
 3. Download `Executables/`. (If you'd rather not grab the whole folder, you need at least `prew2.exe` and `w2.exe` to run the model, and `w2post.exe` separately to view results afterward.)
 4. Unzip everything into the same working directory as the run's input files.
-Optional Steps (needed if you want to make changes to the model): 
-- Open the w2_con_allbranches.xlsx file.
-- Make any changes, save the file, then click the export to csv button (make sure that Excel macros are enabled). 
 5. Run `prew2.exe` (the preprocessor) first.
    - **Known issue:** v4.5's preprocessor has a bug (an off-by-one error in `pre_ivf_45.f90`, ~line 3794) that can throw an error. If `prew2.exe` errors out, skip it — run `w2_v4_64.exe` directly instead. The model runs correctly without the preprocessor step in that case.
 6. If `prew2.exe` completes without error, run `w2.exe` next.
@@ -43,7 +39,4 @@ Optional Steps (needed if you want to make changes to the model):
 
 ## Reference
 
-The official CE-QUAL-W2 manual and examples are also available at the [CE-QUAL-W2 site](https://www.ce-qual-w2.org) if you need documentation beyond what's bundled in `Manual/`.                                                                                            
-                                                                                                
-
-
+Find more information about CE-QUAL-W2 here: [CE-QUAL-W2-ERDC/CE-QUAL-W2](https://github.com/CE-QUAL-W2-ERDC/CE-QUAL-W2) — the official repo, including the full user manual, example models, fact sheets, and source code.
