@@ -1,0 +1,3 @@
+"Station","Willmott's d","RMSE (m)","NSE","n (obs)","Overall Bias (m)","High Tide Bias (m)","Mid Tide Bias (m)","Low Tide Bias (m)","High Tide Lag (min)","Low Tide Lag (min)"
+"Boca Rio",0.956,0.157,0.797,2399,0.11,0.029,0.147,0.083,-11.5,89.5
+"Oneonta Slough",0.956,0.155,0.805,2399,0.106,0.04,0.138,0.08,-21.3,79.5

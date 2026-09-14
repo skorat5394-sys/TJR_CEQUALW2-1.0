@@ -1,0 +1,3839 @@
+Water surface is above the top of layer 2 in segment 2 at day 1.011
+Computational warning at Julian day = 1.011
+ timestep = .694 sec: DLT<DLTMIN set DLT=DLTMIN
+
+ ************* Subtract layer 2 at Julian day = 1.338 NIT = 12134  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 1.359 NIT = 13788  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 1.375 NIT = 15124  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 1.388 NIT = 16138  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 1.400 NIT = 17128  IZMIN =211  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 1.409 NIT = 17789  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 1.425 NIT = 19061  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 1.438 NIT = 19962  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 1.438   NIT = 19962
+
+ ************* Subtract layer 10 at Julian day = 1.454 NIT = 21165  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ ************* Subtract layer 11 at Julian day = 1.475 NIT = 22590  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 22 through 159
+
+ *************    Add layer 11 at Julian day = 1.542   NIT = 26497  IZMIN =209 Waterbody =    1 *************
+
+                  Add segments 22 through 159
+
+ *************    Add layer 10 at Julian day = 1.565   NIT = 27986  IZMIN =131 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 1.586   NIT = 29416  IZMIN =119 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+Computational warning at Julian day = 1.586
+ timestep = .847 sec: DLT<DLTMIN set DLT=DLTMIN
+ *************    Branch Active: 3 at Julian day = 1.586   NIT = 29417
+
+ *************    Adding segments: 383 through 462   NIT = 29417
+
+ *************    Add layer 8 at Julian day = 1.619   NIT = 31075  IZMIN =386 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 1.658   NIT = 33416  IZMIN =382 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 1.679   NIT = 35179  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 1.697   NIT = 36751  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 1.715   NIT = 38295  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 1.748   NIT = 41212  IZMIN =414 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 1.782   NIT = 44079  IZMIN =411 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 1.896 NIT = 49486  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 1.930 NIT = 51524  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 1.963 NIT = 53537  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ *************    Add layer 4 at Julian day = 2.060   NIT = 57466  IZMIN =460 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 2.131   NIT = 60547  IZMIN =219 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 2.179   NIT = 64576  IZMIN =421 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 2.371 NIT = 75898  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 2.396 NIT = 77997  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 2.409 NIT = 79075  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 2.417 NIT = 79804  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 2.434 NIT = 81200  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 2.442 NIT = 81892  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 2.455 NIT = 82907  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 2.467 NIT = 83894  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 2.467   NIT = 83894
+
+ ************* Subtract layer 10 at Julian day = 2.488 NIT = 85410  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ ************* Subtract layer 11 at Julian day = 2.505 NIT = 86621  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 22 through 159
+
+ *************    Add layer 11 at Julian day = 2.571   NIT = 90676  IZMIN =207 Waterbody =    1 *************
+
+                  Add segments 22 through 159
+
+ *************    Add layer 10 at Julian day = 2.587   NIT = 91649  IZMIN =101 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 2.611   NIT = 93248  IZMIN =109 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+Computational warning at Julian day = 2.611
+ timestep = .746 sec: DLT<DLTMIN set DLT=DLTMIN
+ *************    Branch Active: 3 at Julian day = 2.611   NIT = 93249
+
+ *************    Adding segments: 383 through 462   NIT = 93249
+
+ *************    Add layer 8 at Julian day = 2.641   NIT = 94764  IZMIN =396 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 2.676   NIT = 97214  IZMIN =382 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 2.696   NIT = 98902  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 2.712   NIT = 100328  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 2.728   NIT = 101711  IZMIN =414 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 2.757   NIT = 104192  IZMIN =411 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 2.785   NIT = 106587  IZMIN =410 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 2.921 NIT = 114093  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 2.946 NIT = 115891  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 2.967 NIT = 117482  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 2.984 NIT = 118643  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 3.005 NIT = 120117  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 3.030 NIT = 121659  IZMIN =210  WaterBody =    1 *************
+
+ *************    Add layer 7 at Julian day = 3.063   NIT = 123471  IZMIN =204 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 3.092   NIT = 124823  IZMIN =211 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 3.107   NIT = 125308  IZMIN =49 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 3.122   NIT = 125748  IZMIN =53 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 3.187   NIT = 129648  IZMIN =219 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 3.224   NIT = 132807  IZMIN =416 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 3.409 NIT = 144125  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 3.430 NIT = 145915  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 3.442 NIT = 147003  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 3.455 NIT = 148061  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 3.467 NIT = 149131  IZMIN =211  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 3.479 NIT = 150173  IZMIN =214  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 3.488 NIT = 150876  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 3.509 NIT = 152516  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 3.509   NIT = 152516
+
+ ************* Subtract layer 10 at Julian day = 3.521 NIT = 153449  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ *************    Add layer 10 at Julian day = 3.588   NIT = 157755  IZMIN =209 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 3.609   NIT = 158836  IZMIN =206 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 3.609   NIT = 158837
+
+ *************    Adding segments: 383 through 462   NIT = 158837
+
+ *************    Add layer 8 at Julian day = 3.669   NIT = 161531  IZMIN =402 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 3.692   NIT = 162769  IZMIN =414 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 3.708   NIT = 164068  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 3.723   NIT = 165319  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 3.736   NIT = 166481  IZMIN =411 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 3.761   NIT = 168579  IZMIN =410 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 3.784   NIT = 170592  IZMIN =410 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 3.938 NIT = 179914  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 3.963 NIT = 182037  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 3.976 NIT = 183140  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 3.988 NIT = 184196  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 4.000 NIT = 185259  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 4.013 NIT = 186296  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 4.034 NIT = 187909  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 4.063 NIT = 189983  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 4.063   NIT = 189983
+
+ *************    Add layer 9 at Julian day = 4.105   NIT = 192367  IZMIN =206 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 4.105   NIT = 192368
+
+ *************    Adding segments: 383 through 462   NIT = 192368
+
+ *************    Add layer 8 at Julian day = 4.159   NIT = 194892  IZMIN =402 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 4.195   NIT = 196457  IZMIN =416 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 4.214   NIT = 197735  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 4.231   NIT = 199172  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 4.246   NIT = 200492  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 4.273   NIT = 202827  IZMIN =411 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 4.299   NIT = 205062  IZMIN =410 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 4.438 NIT = 213430  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 4.459 NIT = 215199  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 4.471 NIT = 216268  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 4.484 NIT = 217319  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 4.496 NIT = 218377  IZMIN =211  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 4.509 NIT = 219396  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 4.521 NIT = 220386  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 4.542 NIT = 221910  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 4.542   NIT = 221910
+
+ *************    Add layer 9 at Julian day = 4.621   NIT = 226668  IZMIN =204 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 4.621   NIT = 226669
+
+ *************    Adding segments: 383 through 462   NIT = 226669
+
+ *************    Add layer 8 at Julian day = 4.682   NIT = 229355  IZMIN =400 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 4.707   NIT = 230709  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 4.723   NIT = 232016  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 4.738   NIT = 233275  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 4.751   NIT = 234429  IZMIN =411 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 4.775   NIT = 236495  IZMIN =410 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 4.798   NIT = 238449  IZMIN =410 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 4.959 NIT = 249015  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 4.980 NIT = 250816  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 4.992 NIT = 251887  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 5.000 NIT = 252596  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 5.013 NIT = 253688  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 5.025 NIT = 254753  IZMIN =211  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 5.034 NIT = 255456  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 5.055 NIT = 257168  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 5.055   NIT = 257168
+
+ ************* Subtract layer 10 at Julian day = 5.071 NIT = 258419  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ *************    Add layer 10 at Julian day = 5.146   NIT = 263333  IZMIN =209 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 5.163   NIT = 264202  IZMIN =206 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 5.163   NIT = 264203
+
+ *************    Adding segments: 383 through 462   NIT = 264203
+
+ *************    Add layer 8 at Julian day = 5.223   NIT = 266851  IZMIN =402 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 5.247   NIT = 268064  IZMIN =414 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 5.264   NIT = 269404  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 5.279   NIT = 270718  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 5.294   NIT = 272027  IZMIN =411 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 5.322   NIT = 274407  IZMIN =411 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 5.349   NIT = 276801  IZMIN =410 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 5.463 NIT = 282948  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 5.484 NIT = 284552  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 5.501 NIT = 285883  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 5.513 NIT = 286843  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 5.530 NIT = 288191  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 5.546 NIT = 289357  IZMIN =214  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 5.567 NIT = 290836  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ *************    Add layer 8 at Julian day = 5.638   NIT = 294880  IZMIN =204 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 5.652   NIT = 295591  IZMIN =180 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 5.669   NIT = 296197  IZMIN =180 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 5.683   NIT = 296616  IZMIN =41 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 5.694   NIT = 296936  IZMIN =460 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 5.757   NIT = 301205  IZMIN =219 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 5.792   NIT = 304275  IZMIN =415 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 5.984 NIT = 320726  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 6.001 NIT = 322177  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 6.013 NIT = 323264  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 6.025 NIT = 324302  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 6.034 NIT = 325027  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 6.046 NIT = 326106  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 6.055 NIT = 326832  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 6.067 NIT = 327886  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 6.067   NIT = 327886
+
+ ************* Subtract layer 10 at Julian day = 6.084 NIT = 329347  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ ************* Subtract layer 11 at Julian day = 6.100 NIT = 330766  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 22 through 159
+
+ *************    Add layer 11 at Julian day = 6.171   NIT = 336887  IZMIN =206 Waterbody =    1 *************
+
+                  Add segments 22 through 159
+
+ *************    Add layer 10 at Julian day = 6.192   NIT = 338631  IZMIN =206 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 6.211   NIT = 340245  IZMIN =122 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 6.211   NIT = 340246
+
+ *************    Adding segments: 383 through 462   NIT = 340246
+
+ *************    Add layer 8 at Julian day = 6.254   NIT = 343228  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 6.284   NIT = 345632  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 6.303   NIT = 347201  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 6.319   NIT = 348643  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 6.336   NIT = 350070  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 6.367   NIT = 352727  IZMIN =410 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 6.399   NIT = 355533  IZMIN =406 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 6.492 NIT = 363305  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 6.517 NIT = 365480  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 6.538 NIT = 367265  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 6.551 NIT = 368382  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 6.571 NIT = 370144  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 6.613 NIT = 373726  IZMIN =210  WaterBody =    1 *************
+
+ *************    Add layer 7 at Julian day = 6.638   NIT = 375810  IZMIN =204 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 6.668   NIT = 378005  IZMIN =180 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 6.683   NIT = 378955  IZMIN =460 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 6.698   NIT = 379745  IZMIN =460 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 6.766   NIT = 384955  IZMIN =402 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 6.806   NIT = 388389  IZMIN =415 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 7.009 NIT = 405895  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 7.026 NIT = 407333  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 7.042 NIT = 408757  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 7.050 NIT = 409472  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 7.059 NIT = 410197  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 7.071 NIT = 411269  IZMIN =211  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 7.084 NIT = 412349  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 7.096 NIT = 413429  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 7.096   NIT = 413429
+
+ ************* Subtract layer 10 at Julian day = 7.109 NIT = 414518  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ ************* Subtract layer 11 at Julian day = 7.129 NIT = 416288  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 22 through 159
+
+ ************* Subtract layer 12 at Julian day = 7.151 NIT = 418128  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 160 through 165
+
+ *************    Branch Inactive: 4 at Julian day = 7.151   NIT = 418128
+
+ *************    Add layer 12 at Julian day = 7.188   NIT = 421360  IZMIN =209 Waterbody =    1 *************
+
+                  Add segments 160 through 165
+ *************    Branch Active: 4 at Julian day = 7.188   NIT = 421361
+
+ *************    Adding segments: 465 through 487   NIT = 421361
+
+ *************    Add layer 11 at Julian day = 7.209   NIT = 423000  IZMIN =208 Waterbody =    1 *************
+
+                  Add segments 22 through 159
+
+ *************    Add layer 10 at Julian day = 7.233   NIT = 424983  IZMIN =113 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 7.249   NIT = 426366  IZMIN =120 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 7.249   NIT = 426367
+
+ *************    Adding segments: 383 through 462   NIT = 426367
+
+ *************    Add layer 8 at Julian day = 7.290   NIT = 429124  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 7.324   NIT = 431735  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 7.344   NIT = 433464  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 7.363   NIT = 435061  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 7.381   NIT = 436663  IZMIN =410 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 7.419   NIT = 439880  IZMIN =410 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 7.466   NIT = 443957  IZMIN =415 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 7.521 NIT = 448159  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 7.563 NIT = 451726  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 7.580 NIT = 453182  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 7.613 NIT = 455911  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ *************    Add layer 5 at Julian day = 7.665   NIT = 459378  IZMIN =461 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 7.698   NIT = 461197  IZMIN =460 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 7.772   NIT = 466803  IZMIN =410 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 7.816   NIT = 470629  IZMIN =416 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 8.038 NIT = 489822  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 8.059 NIT = 491624  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 8.071 NIT = 492696  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 8.080 NIT = 493418  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 8.092 NIT = 494490  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 8.104 NIT = 495563  IZMIN =211  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 8.117 NIT = 496642  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 8.129 NIT = 497723  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 8.129   NIT = 497723
+
+ ************* Subtract layer 10 at Julian day = 8.146 NIT = 499170  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ ************* Subtract layer 11 at Julian day = 8.171 NIT = 501335  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 22 through 159
+
+ *************    Add layer 11 at Julian day = 8.217   NIT = 505311  IZMIN =214 Waterbody =    1 *************
+
+                  Add segments 22 through 159
+
+ *************    Add layer 10 at Julian day = 8.242   NIT = 507442  IZMIN =204 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 8.262   NIT = 509096  IZMIN =118 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 8.262   NIT = 509097
+
+ *************    Adding segments: 383 through 462   NIT = 509097
+
+ ************* Subtract layer 9 at Julian day = 8.262 NIT = 509121  IZMIN =179  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 8.262   NIT = 509121
+
+ *************    Add layer 9 at Julian day = 8.262   NIT = 509135  IZMIN =180 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 8.262   NIT = 509136
+
+ *************    Adding segments: 383 through 462   NIT = 509136
+
+ *************    Add layer 8 at Julian day = 8.337   NIT = 514473  IZMIN =386 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 8.359   NIT = 516333  IZMIN =387 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 8.377   NIT = 517832  IZMIN =410 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 8.394   NIT = 519329  IZMIN =410 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 8.412   NIT = 520914  IZMIN =409 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 8.451   NIT = 524208  IZMIN =410 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 8.497   NIT = 527980  IZMIN =409 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 8.563 NIT = 532049  IZMIN =211  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 8.638 NIT = 537597  IZMIN =209  WaterBody =    1 *************
+
+ *************    Add layer 3 at Julian day = 8.728   NIT = 542091  IZMIN =217 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 8.800   NIT = 548262  IZMIN =386 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 9.071 NIT = 568337  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 9.092 NIT = 570145  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 9.113 NIT = 571922  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 9.122 NIT = 572669  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 9.134 NIT = 573731  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 9.150 NIT = 575159  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 9.167 NIT = 576593  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 9.192 NIT = 578766  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 9.192   NIT = 578766
+
+ *************    Add layer 9 at Julian day = 9.267   NIT = 585250  IZMIN =204 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 9.267   NIT = 585251
+
+ *************    Adding segments: 383 through 462   NIT = 585251
+
+ ************* Subtract layer 9 at Julian day = 9.267 NIT = 585270  IZMIN =179  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 9.267   NIT = 585270
+
+ *************    Add layer 9 at Julian day = 9.268   NIT = 585288  IZMIN =181 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 9.268   NIT = 585289
+
+ *************    Adding segments: 383 through 462   NIT = 585289
+
+ *************    Add layer 8 at Julian day = 9.357   NIT = 592325  IZMIN =386 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 9.384   NIT = 594305  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 9.405   NIT = 595983  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 9.425   NIT = 597696  IZMIN =414 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 9.446   NIT = 599571  IZMIN =414 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 9.495   NIT = 603755  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 9.561   NIT = 608073  IZMIN =416 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 9.629 NIT = 611539  IZMIN =214  WaterBody =    1 *************
+
+ *************    Add layer 2 at Julian day = 9.789   NIT = 621634  IZMIN =402 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 10.105 NIT = 644859  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 10.130 NIT = 647015  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 10.147 NIT = 648481  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 10.159 NIT = 649562  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 10.180 NIT = 651333  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 10.196 NIT = 652779  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 10.221 NIT = 654936  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ *************    Add layer 8 at Julian day = 10.321   NIT = 663558  IZMIN =206 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 10.346   NIT = 665746  IZMIN =203 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 10.367   NIT = 667498  IZMIN =213 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 10.392   NIT = 669670  IZMIN =88 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 10.407   NIT = 671022  IZMIN =95 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 10.521   NIT = 680835  IZMIN =380 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 10.763   NIT = 701766  IZMIN =381 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 11.134 NIT = 733783  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 11.167 NIT = 736653  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 11.188 NIT = 738478  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 11.209 NIT = 740257  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 11.230 NIT = 742051  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 11.259 NIT = 744576  IZMIN =210  WaterBody =    1 *************
+
+ *************    Add layer 7 at Julian day = 11.368   NIT = 753984  IZMIN =195 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 11.404   NIT = 757165  IZMIN =140 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 11.435   NIT = 759836  IZMIN =460 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 11.476   NIT = 763362  IZMIN =402 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 11.580   NIT = 772349  IZMIN =380 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 11.676   NIT = 780666  IZMIN =416 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 12.176 NIT = 823788  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 12.209 NIT = 826678  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 12.242 NIT = 829537  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 12.271 NIT = 832024  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 12.296 NIT = 834189  IZMIN =214  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 12.346 NIT = 838502  IZMIN =214  WaterBody =    1 *************
+
+ *************    Add layer 7 at Julian day = 12.418   NIT = 844766  IZMIN =209 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 12.463   NIT = 848604  IZMIN =206 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 12.491   NIT = 851004  IZMIN =100 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 12.549   NIT = 856073  IZMIN =382 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 12.640   NIT = 863889  IZMIN =386 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 12.717   NIT = 870557  IZMIN =416 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 13.234 NIT = 915207  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 13.271 NIT = 918467  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 13.305 NIT = 921335  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 13.321 NIT = 922777  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 13.355 NIT = 925647  IZMIN =211  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 13.413 NIT = 930693  IZMIN =210  WaterBody =    1 *************
+
+ *************    Add layer 7 at Julian day = 13.463   NIT = 935030  IZMIN =203 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 13.502   NIT = 938357  IZMIN =124 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 13.529   NIT = 940732  IZMIN =92 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 13.583   NIT = 945353  IZMIN =382 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 13.666   NIT = 952564  IZMIN =380 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 13.728   NIT = 957874  IZMIN =415 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 14.279 NIT = 1005547  IZMIN =214  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 14.317 NIT = 1008825  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 14.342 NIT = 1010975  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 14.367 NIT = 1013130  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 14.392 NIT = 1015270  IZMIN =214  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 14.417 NIT = 1017449  IZMIN =211  WaterBody =    1 *************
+
+ *************    Add layer 7 at Julian day = 14.513   NIT = 1025758  IZMIN =201 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 14.539   NIT = 1028014  IZMIN =180 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 14.565   NIT = 1030191  IZMIN =460 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 14.607   NIT = 1033899  IZMIN =382 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 14.684   NIT = 1040494  IZMIN =387 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 14.736   NIT = 1045004  IZMIN =380 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 14.942 NIT = 1062824  IZMIN =206  WaterBody =    1 *************
+
+ *************    Add layer 2 at Julian day = 15.093   NIT = 1075881  IZMIN =392 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 15.321 NIT = 1095536  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 15.354 NIT = 1098400  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 15.380 NIT = 1100586  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 15.392 NIT = 1101673  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 15.417 NIT = 1103806  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 15.450 NIT = 1106538  IZMIN =214  WaterBody =    1 *************
+
+ *************    Add layer 7 at Julian day = 15.539   NIT = 1114224  IZMIN =214 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 15.569   NIT = 1116243  IZMIN =180 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 15.584   NIT = 1117169  IZMIN =20 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 15.601   NIT = 1117900  IZMIN =374 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 15.690   NIT = 1125096  IZMIN =380 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 15.738   NIT = 1129183  IZMIN =414 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 15.917 NIT = 1141417  IZMIN =206  WaterBody =    1 *************
+
+ *************    Add layer 2 at Julian day = 16.156   NIT = 1157877  IZMIN =380 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 16.355 NIT = 1171604  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 16.384 NIT = 1174137  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 16.413 NIT = 1176635  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 16.426 NIT = 1177745  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 16.451 NIT = 1179882  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 16.492 NIT = 1183382  IZMIN =214  WaterBody =    1 *************
+
+ *************    Add layer 7 at Julian day = 16.546   NIT = 1188036  IZMIN =210 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 16.575   NIT = 1190357  IZMIN =93 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 16.592   NIT = 1191286  IZMIN =203 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 16.612   NIT = 1192163  IZMIN =41 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 16.690   NIT = 1198518  IZMIN =219 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 16.734   NIT = 1202295  IZMIN =386 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 16.921 NIT = 1215862  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 16.967 NIT = 1219827  IZMIN =206  WaterBody =    1 *************
+
+ *************    Add layer 3 at Julian day = 17.141   NIT = 1231657  IZMIN =219 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 17.201   NIT = 1236784  IZMIN =386 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 17.388 NIT = 1250523  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 17.417 NIT = 1253027  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 17.434 NIT = 1254497  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 17.451 NIT = 1255945  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 17.475 NIT = 1258064  IZMIN =211  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 17.517 NIT = 1261620  IZMIN =211  WaterBody =    1 *************
+
+ *************    Add layer 7 at Julian day = 17.555   NIT = 1264856  IZMIN =203 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 17.588   NIT = 1267361  IZMIN =206 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 17.608   NIT = 1268564  IZMIN =41 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 17.620   NIT = 1269134  IZMIN =460 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 17.696   NIT = 1274971  IZMIN =219 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 17.735   NIT = 1278401  IZMIN =380 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 17.934 NIT = 1293382  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 17.959 NIT = 1295567  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 17.984 NIT = 1297728  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 18.009 NIT = 1299893  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ *************    Add layer 5 at Julian day = 18.101   NIT = 1306791  IZMIN =74 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 18.124   NIT = 1308099  IZMIN =101 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 18.199   NIT = 1313543  IZMIN =219 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 18.246   NIT = 1317629  IZMIN =380 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 18.405 NIT = 1329264  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 18.434 NIT = 1331789  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 18.463 NIT = 1334291  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 18.475 NIT = 1335363  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 18.508 NIT = 1338218  IZMIN =214  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 18.558 NIT = 1342545  IZMIN =214  WaterBody =    1 *************
+
+ *************    Add layer 7 at Julian day = 18.575   NIT = 1344004  IZMIN =206 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 18.596   NIT = 1345628  IZMIN =204 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 18.615   NIT = 1346791  IZMIN =50 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 18.630   NIT = 1347559  IZMIN =65 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 18.702   NIT = 1353131  IZMIN =219 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 18.741   NIT = 1356479  IZMIN =392 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 18.942 NIT = 1371986  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 18.967 NIT = 1374139  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 18.988 NIT = 1375930  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 19.001 NIT = 1377052  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 19.013 NIT = 1378143  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 19.042 NIT = 1380618  IZMIN =210  WaterBody =    1 *************
+
+ *************    Add layer 7 at Julian day = 19.113   NIT = 1386761  IZMIN =201 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 19.130   NIT = 1388095  IZMIN =204 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 19.157   NIT = 1389826  IZMIN =49 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 19.166   NIT = 1390265  IZMIN =76 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 19.240   NIT = 1395817  IZMIN =219 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 19.282   NIT = 1399430  IZMIN =380 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 19.434 NIT = 1410708  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 19.463 NIT = 1413218  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 19.488 NIT = 1415395  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 19.505 NIT = 1416841  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 19.546 NIT = 1420388  IZMIN =210  WaterBody =    1 *************
+
+ *************    Add layer 6 at Julian day = 19.592   NIT = 1424288  IZMIN =210 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 19.618   NIT = 1425989  IZMIN =193 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 19.635   NIT = 1426934  IZMIN =59 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 19.703   NIT = 1432058  IZMIN =219 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 19.742   NIT = 1435417  IZMIN =386 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 19.959 NIT = 1452325  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 19.984 NIT = 1454487  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 19.997 NIT = 1455575  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 20.009 NIT = 1456628  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 20.021 NIT = 1457726  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 20.038 NIT = 1459148  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 20.059 NIT = 1460949  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ *************    Add layer 8 at Julian day = 20.142   NIT = 1468173  IZMIN =204 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 20.159   NIT = 1469599  IZMIN =204 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 20.176   NIT = 1470846  IZMIN =78 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 20.189   NIT = 1471594  IZMIN =20 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 20.203   NIT = 1472319  IZMIN =41 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 20.272   NIT = 1477975  IZMIN =219 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 20.312   NIT = 1481433  IZMIN =392 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 20.463 NIT = 1492957  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 20.488 NIT = 1495129  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 20.513 NIT = 1497266  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 20.538 NIT = 1499429  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ *************    Add layer 5 at Julian day = 20.619   NIT = 1505762  IZMIN =113 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 20.649   NIT = 1507530  IZMIN =41 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 20.710   NIT = 1512386  IZMIN =237 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 20.749   NIT = 1515767  IZMIN =392 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 20.976 NIT = 1533308  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 20.992 NIT = 1534764  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 21.009 NIT = 1536178  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 21.017 NIT = 1536926  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 21.030 NIT = 1537974  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 21.042 NIT = 1539051  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 21.059 NIT = 1540486  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 21.071 NIT = 1541552  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 21.071   NIT = 1541552
+
+ ************* Subtract layer 10 at Julian day = 21.092 NIT = 1543372  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ *************    Add layer 10 at Julian day = 21.159   NIT = 1549128  IZMIN =208 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 21.180   NIT = 1550946  IZMIN =204 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 21.180   NIT = 1550947
+
+ *************    Adding segments: 383 through 462   NIT = 1550947
+
+ ************* Subtract layer 9 at Julian day = 21.180 NIT = 1550966  IZMIN =179  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 21.180   NIT = 1550966
+
+ *************    Add layer 9 at Julian day = 21.180   NIT = 1550986  IZMIN =182 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 21.180   NIT = 1550987
+
+ *************    Adding segments: 383 through 462   NIT = 1550987
+
+ *************    Add layer 8 at Julian day = 21.249   NIT = 1556433  IZMIN =386 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 21.271   NIT = 1558253  IZMIN =414 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 21.288   NIT = 1559721  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 21.304   NIT = 1561105  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 21.320   NIT = 1562517  IZMIN =414 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 21.352   NIT = 1565214  IZMIN =411 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 21.385   NIT = 1568059  IZMIN =411 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 21.480 NIT = 1575327  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 21.517 NIT = 1578575  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 21.554 NIT = 1581783  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ *************    Add layer 4 at Julian day = 21.648   NIT = 1588703  IZMIN =460 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 21.719   NIT = 1593713  IZMIN =237 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 21.759   NIT = 1597217  IZMIN =392 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 22.001 NIT = 1615764  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 22.017 NIT = 1617213  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 22.030 NIT = 1618271  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 22.042 NIT = 1619350  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 22.050 NIT = 1620075  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 22.063 NIT = 1621146  IZMIN =211  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 22.071 NIT = 1621875  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 22.084 NIT = 1622966  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 22.084   NIT = 1622966
+
+ ************* Subtract layer 10 at Julian day = 22.100 NIT = 1624394  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ ************* Subtract layer 11 at Julian day = 22.117 NIT = 1625842  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 22 through 159
+
+ *************    Add layer 11 at Julian day = 22.188   NIT = 1631923  IZMIN =207 Waterbody =    1 *************
+
+                  Add segments 22 through 159
+
+ *************    Add layer 10 at Julian day = 22.202   NIT = 1633104  IZMIN =210 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 22.224   NIT = 1635017  IZMIN =119 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 22.224   NIT = 1635018
+
+ *************    Adding segments: 383 through 462   NIT = 1635018
+
+ ************* Subtract layer 9 at Julian day = 22.225 NIT = 1635037  IZMIN =179  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 22.225   NIT = 1635037
+
+ *************    Add layer 9 at Julian day = 22.225   NIT = 1635052  IZMIN =181 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 22.225   NIT = 1635053
+
+ *************    Adding segments: 383 through 462   NIT = 1635053
+
+ *************    Add layer 8 at Julian day = 22.290   NIT = 1639704  IZMIN =386 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 22.311   NIT = 1641458  IZMIN =386 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 22.328   NIT = 1642887  IZMIN =410 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 22.344   NIT = 1644253  IZMIN =414 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 22.360   NIT = 1645655  IZMIN =406 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 22.392   NIT = 1648416  IZMIN =405 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 22.429   NIT = 1651627  IZMIN =404 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 22.501 NIT = 1656651  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 22.554 NIT = 1661211  IZMIN =214  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 22.596 NIT = 1664673  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ *************    Add layer 4 at Julian day = 22.650   NIT = 1668025  IZMIN =206 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 22.727   NIT = 1673147  IZMIN =237 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 22.773   NIT = 1677104  IZMIN =386 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 23.026 NIT = 1696596  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 23.038 NIT = 1697696  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 23.055 NIT = 1699126  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 23.063 NIT = 1699828  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 23.071 NIT = 1700554  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 23.084 NIT = 1701617  IZMIN =211  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 23.092 NIT = 1702351  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 23.105 NIT = 1703432  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 23.105   NIT = 1703432
+
+ ************* Subtract layer 10 at Julian day = 23.117 NIT = 1704508  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ ************* Subtract layer 11 at Julian day = 23.138 NIT = 1706283  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 22 through 159
+
+ ************* Subtract layer 12 at Julian day = 23.158 NIT = 1708083  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 160 through 165
+
+ *************    Branch Inactive: 4 at Julian day = 23.158   NIT = 1708083
+
+ *************    Add layer 12 at Julian day = 23.209   NIT = 1712431  IZMIN =209 Waterbody =    1 *************
+
+                  Add segments 160 through 165
+ *************    Branch Active: 4 at Julian day = 23.209   NIT = 1712432
+
+ *************    Adding segments: 465 through 487   NIT = 1712432
+
+ *************    Add layer 11 at Julian day = 23.226   NIT = 1713697  IZMIN =204 Waterbody =    1 *************
+
+                  Add segments 22 through 159
+
+ *************    Add layer 10 at Julian day = 23.252   NIT = 1715900  IZMIN =107 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 23.268   NIT = 1717247  IZMIN =105 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 23.268   NIT = 1717248
+
+ *************    Adding segments: 383 through 462   NIT = 1717248
+
+ ************* Subtract layer 9 at Julian day = 23.268 NIT = 1717270  IZMIN =179  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 23.268   NIT = 1717270
+
+ *************    Add layer 9 at Julian day = 23.268   NIT = 1717281  IZMIN =179 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 23.268   NIT = 1717282
+
+ *************    Adding segments: 383 through 462   NIT = 1717282
+
+ *************    Add layer 8 at Julian day = 23.332   NIT = 1721832  IZMIN =386 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 23.354   NIT = 1723693  IZMIN =386 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 23.372   NIT = 1725180  IZMIN =387 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 23.389   NIT = 1726664  IZMIN =382 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 23.407   NIT = 1728259  IZMIN =386 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 23.447   NIT = 1731697  IZMIN =403 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 23.507   NIT = 1735809  IZMIN =414 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 23.534 NIT = 1737524  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 23.601 NIT = 1742521  IZMIN =206  WaterBody =    1 *************
+
+ *************    Add layer 3 at Julian day = 23.731   NIT = 1750323  IZMIN =237 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 23.789   NIT = 1755373  IZMIN =390 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 24.051 NIT = 1775741  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 24.071 NIT = 1777538  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 24.084 NIT = 1778600  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 24.092 NIT = 1779351  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 24.105 NIT = 1780403  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 24.113 NIT = 1781123  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 24.125 NIT = 1782203  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 24.138 NIT = 1783289  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 24.138   NIT = 1783289
+
+ ************* Subtract layer 10 at Julian day = 24.154 NIT = 1784700  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ ************* Subtract layer 11 at Julian day = 24.175 NIT = 1786496  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 22 through 159
+
+ *************    Add layer 11 at Julian day = 24.259   NIT = 1793677  IZMIN =206 Waterbody =    1 *************
+
+                  Add segments 22 through 159
+
+ *************    Add layer 10 at Julian day = 24.281   NIT = 1795452  IZMIN =113 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 24.301   NIT = 1797214  IZMIN =107 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 24.301   NIT = 1797215
+
+ *************    Adding segments: 383 through 462   NIT = 1797215
+
+ ************* Subtract layer 9 at Julian day = 24.301 NIT = 1797231  IZMIN =179  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 24.301   NIT = 1797231
+
+ *************    Add layer 9 at Julian day = 24.301   NIT = 1797245  IZMIN =181 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 24.301   NIT = 1797246
+
+ *************    Adding segments: 383 through 462   NIT = 1797246
+
+ *************    Add layer 8 at Julian day = 24.369   NIT = 1802032  IZMIN =386 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 24.394   NIT = 1803908  IZMIN =386 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 24.412   NIT = 1805490  IZMIN =410 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 24.431   NIT = 1807098  IZMIN =410 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 24.451   NIT = 1808851  IZMIN =381 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 24.497   NIT = 1812810  IZMIN =410 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 24.797   NIT = 1831050  IZMIN =386 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 25.088 NIT = 1852768  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 25.109 NIT = 1854562  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 25.122 NIT = 1855674  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 25.134 NIT = 1856718  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 25.146 NIT = 1857799  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 25.159 NIT = 1858876  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 25.175 NIT = 1860289  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 25.188 NIT = 1861375  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 25.188   NIT = 1861375
+
+ ************* Subtract layer 10 at Julian day = 25.205 NIT = 1862839  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ ************* Subtract layer 11 at Julian day = 25.225 NIT = 1864618  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 22 through 159
+
+ *************    Add layer 11 at Julian day = 25.288   NIT = 1869907  IZMIN =214 Waterbody =    1 *************
+
+                  Add segments 22 through 159
+
+ *************    Add layer 10 at Julian day = 25.311   NIT = 1871838  IZMIN =107 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 25.333   NIT = 1873691  IZMIN =117 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 25.333   NIT = 1873692
+
+ *************    Adding segments: 383 through 462   NIT = 1873692
+
+ ************* Subtract layer 9 at Julian day = 25.333 NIT = 1873703  IZMIN =179  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 25.333   NIT = 1873703
+
+ *************    Add layer 9 at Julian day = 25.333   NIT = 1873724  IZMIN =177 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 25.333   NIT = 1873725
+
+ *************    Adding segments: 383 through 462   NIT = 1873725
+
+ *************    Add layer 8 at Julian day = 25.410   NIT = 1879213  IZMIN =386 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 25.437   NIT = 1881206  IZMIN =382 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 25.457   NIT = 1882884  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 25.477   NIT = 1884614  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 25.499   NIT = 1886482  IZMIN =410 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 25.550   NIT = 1890719  IZMIN =411 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 25.796   NIT = 1904861  IZMIN =406 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 26.121 NIT = 1928427  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 26.146 NIT = 1930586  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 26.163 NIT = 1932027  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 26.172 NIT = 1932764  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 26.192 NIT = 1934522  IZMIN =211  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 26.200 NIT = 1935247  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 26.221 NIT = 1937050  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 26.238 NIT = 1938463  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 26.238   NIT = 1938463
+
+ ************* Subtract layer 10 at Julian day = 26.267 NIT = 1940982  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ *************    Add layer 10 at Julian day = 26.350   NIT = 1948214  IZMIN =206 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 26.376   NIT = 1950419  IZMIN =193 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 26.376   NIT = 1950420
+
+ *************    Adding segments: 383 through 462   NIT = 1950420
+
+ ************* Subtract layer 9 at Julian day = 26.376 NIT = 1950430  IZMIN =179  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 26.376   NIT = 1950430
+
+ *************    Add layer 9 at Julian day = 26.377   NIT = 1950506  IZMIN =170 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 26.377   NIT = 1950507
+
+ *************    Adding segments: 383 through 462   NIT = 1950507
+
+ *************    Add layer 8 at Julian day = 26.461   NIT = 1957048  IZMIN =383 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 26.489   NIT = 1959040  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 26.510   NIT = 1960783  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 26.531   NIT = 1962547  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 26.554   NIT = 1964526  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 26.606   NIT = 1968946  IZMIN =416 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 26.795   NIT = 1978245  IZMIN =430 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 27.167 NIT = 2004067  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 27.200 NIT = 2006937  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 27.217 NIT = 2008400  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 27.230 NIT = 2009483  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 27.250 NIT = 2011228  IZMIN =214  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 27.259 NIT = 2011969  IZMIN =211  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 27.280 NIT = 2013774  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 27.300 NIT = 2015570  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 27.300   NIT = 2015570
+
+ *************    Add layer 9 at Julian day = 27.401   NIT = 2024289  IZMIN =193 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 27.401   NIT = 2024290
+
+ *************    Adding segments: 383 through 462   NIT = 2024290
+
+ ************* Subtract layer 9 at Julian day = 27.401 NIT = 2024299  IZMIN =179  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 27.401   NIT = 2024299
+
+ *************    Add layer 9 at Julian day = 27.402   NIT = 2024377  IZMIN =170 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 27.402   NIT = 2024378
+
+ *************    Adding segments: 383 through 462   NIT = 2024378
+
+ *************    Add layer 8 at Julian day = 27.496   NIT = 2031739  IZMIN =383 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 27.525   NIT = 2033828  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 27.545   NIT = 2035523  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 27.565   NIT = 2037207  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 27.585   NIT = 2038989  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 27.628   NIT = 2042696  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 27.676   NIT = 2046633  IZMIN =415 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 28.226 NIT = 2079029  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 28.255 NIT = 2081558  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 28.271 NIT = 2082993  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 28.292 NIT = 2084767  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 28.300 NIT = 2085491  IZMIN =211  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 28.325 NIT = 2087627  IZMIN =214  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 28.338 NIT = 2088729  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 28.363 NIT = 2090887  IZMIN =212  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 28.363   NIT = 2090887
+
+ *************    Add layer 9 at Julian day = 28.447   NIT = 2098164  IZMIN =193 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 28.447   NIT = 2098165
+
+ *************    Adding segments: 383 through 462   NIT = 2098165
+
+ ************* Subtract layer 9 at Julian day = 28.447 NIT = 2098173  IZMIN =179  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 28.447   NIT = 2098173
+
+ *************    Add layer 9 at Julian day = 28.448   NIT = 2098252  IZMIN =170 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 28.448   NIT = 2098253
+
+ *************    Adding segments: 383 through 462   NIT = 2098253
+
+ *************    Add layer 8 at Julian day = 28.535   NIT = 2105011  IZMIN =386 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 28.561   NIT = 2106992  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 28.580   NIT = 2108627  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 28.598   NIT = 2110161  IZMIN =414 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 28.617   NIT = 2111770  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 28.653   NIT = 2114890  IZMIN =414 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 28.690   NIT = 2118148  IZMIN =414 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 28.871 NIT = 2129227  IZMIN =209  WaterBody =    1 *************
+
+ *************    Add layer 2 at Julian day = 29.010   NIT = 2136339  IZMIN =418 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 29.280 NIT = 2155228  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 29.305 NIT = 2157378  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 29.325 NIT = 2159176  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 29.338 NIT = 2160263  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 29.355 NIT = 2161700  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 29.371 NIT = 2163140  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 29.396 NIT = 2165272  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 29.413 NIT = 2166747  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 29.413   NIT = 2166747
+
+ *************    Add layer 9 at Julian day = 29.479   NIT = 2172489  IZMIN =207 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 29.479   NIT = 2172490
+
+ *************    Adding segments: 383 through 462   NIT = 2172490
+
+ ************* Subtract layer 9 at Julian day = 29.480 NIT = 2172499  IZMIN =179  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 29.480   NIT = 2172499
+
+ *************    Add layer 9 at Julian day = 29.480   NIT = 2172523  IZMIN =177 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 29.480   NIT = 2172524
+
+ *************    Adding segments: 383 through 462   NIT = 2172524
+
+ *************    Add layer 8 at Julian day = 29.558   NIT = 2178662  IZMIN =383 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 29.584   NIT = 2180720  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 29.602   NIT = 2182307  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 29.619   NIT = 2183782  IZMIN =414 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 29.636   NIT = 2185242  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 29.667   NIT = 2187927  IZMIN =411 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 29.698   NIT = 2190541  IZMIN =410 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 29.876 NIT = 2203531  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 29.946 NIT = 2209524  IZMIN =206  WaterBody =    1 *************
+
+ *************    Add layer 3 at Julian day = 30.041   NIT = 2214510  IZMIN =217 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 30.115   NIT = 2220853  IZMIN =386 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 30.326 NIT = 2236186  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 30.351 NIT = 2238353  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 30.367 NIT = 2239796  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 30.384 NIT = 2241211  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 30.400 NIT = 2242642  IZMIN =211  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 30.417 NIT = 2244103  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 30.434 NIT = 2245528  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ *************    Add layer 8 at Julian day = 30.517   NIT = 2252760  IZMIN =203 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 30.539   NIT = 2254609  IZMIN =125 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 30.552   NIT = 2255545  IZMIN =173 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 30.570   NIT = 2256551  IZMIN =41 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 30.584   NIT = 2257257  IZMIN =20 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 30.653   NIT = 2263014  IZMIN =219 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 30.690   NIT = 2266143  IZMIN =414 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 30.888 NIT = 2281386  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 30.913 NIT = 2283567  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 30.942 NIT = 2286080  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 30.963 NIT = 2287853  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ *************    Add layer 5 at Julian day = 31.050   NIT = 2294584  IZMIN =204 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 31.073   NIT = 2295952  IZMIN =460 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 31.148   NIT = 2301286  IZMIN =219 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 31.195   NIT = 2305299  IZMIN =380 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 31.367 NIT = 2318321  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 31.388 NIT = 2320137  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 31.409 NIT = 2321917  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 31.417 NIT = 2322667  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 31.434 NIT = 2324117  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 31.458 NIT = 2326219  IZMIN =214  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 31.488 NIT = 2328763  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ *************    Add layer 8 at Julian day = 31.522   NIT = 2331666  IZMIN =204 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 31.555   NIT = 2334571  IZMIN =195 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 31.570   NIT = 2335785  IZMIN =100 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 31.588   NIT = 2336863  IZMIN =75 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 31.601   NIT = 2337406  IZMIN =20 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 31.669   NIT = 2343009  IZMIN =219 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 31.703   NIT = 2345948  IZMIN =414 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 31.909 NIT = 2362023  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 31.930 NIT = 2363836  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 31.947 NIT = 2365290  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 31.963 NIT = 2366724  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 31.980 NIT = 2368133  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 32.001 NIT = 2369947  IZMIN =209  WaterBody =    1 *************
+
+ *************    Add layer 7 at Julian day = 32.088   NIT = 2377471  IZMIN =209 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 32.105   NIT = 2378877  IZMIN =193 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 32.120   NIT = 2379867  IZMIN =38 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 32.135   NIT = 2380642  IZMIN =58 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 32.204   NIT = 2386095  IZMIN =219 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 32.244   NIT = 2389582  IZMIN =380 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 32.396 NIT = 2400912  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 32.422 NIT = 2403082  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 32.446 NIT = 2405211  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 32.459 NIT = 2406329  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 32.488 NIT = 2408850  IZMIN =206  WaterBody =    1 *************
+
+ *************    Add layer 6 at Julian day = 32.576   NIT = 2416112  IZMIN =193 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 32.594   NIT = 2417263  IZMIN =50 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 32.609   NIT = 2418055  IZMIN =75 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 32.676   NIT = 2423316  IZMIN =219 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 32.711   NIT = 2426361  IZMIN =380 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 32.934 NIT = 2443754  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 32.955 NIT = 2445542  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 32.967 NIT = 2446656  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 32.976 NIT = 2447390  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 32.996 NIT = 2449133  IZMIN =211  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 33.005 NIT = 2449863  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 33.026 NIT = 2451671  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 33.042 NIT = 2453111  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 33.042   NIT = 2453111
+
+ *************    Add layer 9 at Julian day = 33.096   NIT = 2457776  IZMIN =209 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 33.096   NIT = 2457777
+
+ *************    Adding segments: 383 through 462   NIT = 2457777
+
+ ************* Subtract layer 9 at Julian day = 33.096 NIT = 2457791  IZMIN =179  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 33.096   NIT = 2457791
+
+ *************    Add layer 9 at Julian day = 33.097   NIT = 2457808  IZMIN =181 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 33.097   NIT = 2457809
+
+ *************    Adding segments: 383 through 462   NIT = 2457809
+
+ *************    Add layer 8 at Julian day = 33.174   NIT = 2463652  IZMIN =383 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 33.202   NIT = 2465771  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 33.221   NIT = 2467412  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 33.238   NIT = 2468895  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 33.255   NIT = 2470364  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 33.286   NIT = 2473015  IZMIN =411 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 33.316   NIT = 2475651  IZMIN =410 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 33.438 NIT = 2485042  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 33.467 NIT = 2487556  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 33.492 NIT = 2489738  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 33.513 NIT = 2491536  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ *************    Add layer 5 at Julian day = 33.588   NIT = 2497114  IZMIN =195 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 33.611   NIT = 2498436  IZMIN =460 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 33.678   NIT = 2503216  IZMIN =219 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 33.718   NIT = 2506692  IZMIN =392 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 33.959 NIT = 2525752  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 33.980 NIT = 2527537  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 33.992 NIT = 2528623  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 34.001 NIT = 2529350  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 34.013 NIT = 2530413  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 34.025 NIT = 2531490  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 34.038 NIT = 2532575  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 34.058 NIT = 2534345  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 34.058   NIT = 2534345
+
+ ************* Subtract layer 10 at Julian day = 34.092 NIT = 2537227  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ *************    Add layer 10 at Julian day = 34.130   NIT = 2540477  IZMIN =209 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 34.150   NIT = 2542003  IZMIN =206 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 34.150   NIT = 2542004
+
+ *************    Adding segments: 383 through 462   NIT = 2542004
+
+ ************* Subtract layer 9 at Julian day = 34.150 NIT = 2542013  IZMIN =179  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 34.150   NIT = 2542013
+
+ *************    Add layer 9 at Julian day = 34.151   NIT = 2542032  IZMIN =182 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 34.151   NIT = 2542033
+
+ *************    Adding segments: 383 through 462   NIT = 2542033
+
+ *************    Add layer 8 at Julian day = 34.221   NIT = 2546885  IZMIN =383 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 34.245   NIT = 2548752  IZMIN =414 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 34.262   NIT = 2550227  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 34.278   NIT = 2551632  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 34.294   NIT = 2552993  IZMIN =411 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 34.324   NIT = 2555620  IZMIN =411 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 34.355   NIT = 2558297  IZMIN =410 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 34.471 NIT = 2567261  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 34.513 NIT = 2570871  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 34.559 NIT = 2574759  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ *************    Add layer 4 at Julian day = 34.584   NIT = 2576498  IZMIN =203 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 34.678   NIT = 2582444  IZMIN =219 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 34.723   NIT = 2586360  IZMIN =386 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 34.980 NIT = 2606122  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 35.001 NIT = 2607926  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 35.013 NIT = 2608987  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 35.022 NIT = 2609747  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 35.034 NIT = 2610790  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 35.042 NIT = 2611516  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 35.055 NIT = 2612589  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 35.067 NIT = 2613668  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 35.067   NIT = 2613668
+
+ ************* Subtract layer 10 at Julian day = 35.084 NIT = 2615110  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ ************* Subtract layer 11 at Julian day = 35.104 NIT = 2616883  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 22 through 159
+
+ *************    Add layer 11 at Julian day = 35.155   NIT = 2621249  IZMIN =206 Waterbody =    1 *************
+
+                  Add segments 22 through 159
+
+ *************    Add layer 10 at Julian day = 35.180   NIT = 2623338  IZMIN =204 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 35.201   NIT = 2624864  IZMIN =101 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 35.201   NIT = 2624865
+
+ *************    Adding segments: 383 through 462   NIT = 2624865
+
+ ************* Subtract layer 9 at Julian day = 35.202 NIT = 2624873  IZMIN =179  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 35.202   NIT = 2624873
+
+ *************    Add layer 9 at Julian day = 35.202   NIT = 2624889  IZMIN =93 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 35.202   NIT = 2624890
+
+ *************    Adding segments: 383 through 462   NIT = 2624890
+
+ *************    Add layer 8 at Julian day = 35.264   NIT = 2628935  IZMIN =386 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 35.288   NIT = 2630883  IZMIN =386 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 35.305   NIT = 2632373  IZMIN =411 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 35.321   NIT = 2633805  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 35.338   NIT = 2635234  IZMIN =410 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 35.370   NIT = 2638020  IZMIN =403 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 35.406   NIT = 2641093  IZMIN =403 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 35.501 NIT = 2647741  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 35.567 NIT = 2653269  IZMIN =206  WaterBody =    1 *************
+
+ *************    Add layer 3 at Julian day = 35.670   NIT = 2659104  IZMIN =217 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 35.734   NIT = 2664601  IZMIN =380 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 36.001 NIT = 2684549  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 36.022 NIT = 2686349  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 36.034 NIT = 2687431  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 36.046 NIT = 2688487  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 36.059 NIT = 2689559  IZMIN =211  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 36.067 NIT = 2690284  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 36.075 NIT = 2691008  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 36.092 NIT = 2692443  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 36.092   NIT = 2692443
+
+ ************* Subtract layer 10 at Julian day = 36.108 NIT = 2693859  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ ************* Subtract layer 11 at Julian day = 36.121 NIT = 2694944  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 22 through 159
+
+ *************    Add layer 11 at Julian day = 36.196   NIT = 2701351  IZMIN =207 Waterbody =    1 *************
+
+                  Add segments 22 through 159
+
+ *************    Add layer 10 at Julian day = 36.220   NIT = 2703128  IZMIN =97 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 36.246   NIT = 2704785  IZMIN =60 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 36.246   NIT = 2704786
+
+ *************    Adding segments: 383 through 462   NIT = 2704786
+
+ ************* Subtract layer 9 at Julian day = 36.246 NIT = 2704798  IZMIN =179  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 36.246   NIT = 2704798
+
+ *************    Add layer 9 at Julian day = 36.246   NIT = 2704806  IZMIN =60 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 36.246   NIT = 2704807
+
+ *************    Adding segments: 383 through 462   NIT = 2704807
+
+ *************    Add layer 8 at Julian day = 36.300   NIT = 2708931  IZMIN =386 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 36.325   NIT = 2711121  IZMIN =382 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 36.344   NIT = 2712753  IZMIN =387 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 36.362   NIT = 2714280  IZMIN =409 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 36.381   NIT = 2715911  IZMIN =381 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 36.420   NIT = 2719284  IZMIN =402 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 36.470   NIT = 2723516  IZMIN =416 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 36.546 NIT = 2728862  IZMIN =206  WaterBody =    1 *************
+
+ *************    Add layer 2 at Julian day = 36.753   NIT = 2742606  IZMIN =392 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 37.034 NIT = 2766860  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 37.051 NIT = 2768306  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 37.067 NIT = 2769745  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 37.075 NIT = 2770452  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 37.088 NIT = 2771525  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 37.100 NIT = 2772605  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 37.113 NIT = 2773680  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 37.125 NIT = 2774767  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 37.125   NIT = 2774767
+
+ ************* Subtract layer 10 at Julian day = 37.150 NIT = 2776899  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ *************    Add layer 10 at Julian day = 37.230   NIT = 2783442  IZMIN =204 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 37.252   NIT = 2784695  IZMIN =208 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 37.252   NIT = 2784696
+
+ *************    Adding segments: 383 through 462   NIT = 2784696
+
+ ************* Subtract layer 9 at Julian day = 37.252 NIT = 2784701  IZMIN =179  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 37.252   NIT = 2784701
+
+ *************    Add layer 9 at Julian day = 37.253   NIT = 2784751  IZMIN =189 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 37.253   NIT = 2784752
+
+ *************    Adding segments: 383 through 462   NIT = 2784752
+
+ *************    Add layer 8 at Julian day = 37.328   NIT = 2789325  IZMIN =386 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 37.353   NIT = 2791373  IZMIN =414 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 37.372   NIT = 2792956  IZMIN =411 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 37.389   NIT = 2794473  IZMIN =411 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 37.408   NIT = 2796097  IZMIN =411 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 37.447   NIT = 2799458  IZMIN =411 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 37.492   NIT = 2803166  IZMIN =414 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 37.609 NIT = 2809906  IZMIN =206  WaterBody =    1 *************
+
+ *************    Add layer 2 at Julian day = 37.728   NIT = 2816245  IZMIN =430 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 38.063 NIT = 2841762  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 38.084 NIT = 2843567  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 38.097 NIT = 2844658  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 38.109 NIT = 2845757  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 38.121 NIT = 2846798  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 38.138 NIT = 2848248  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 38.154 NIT = 2849665  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 38.179 NIT = 2851810  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 38.179   NIT = 2851810
+
+ *************    Add layer 9 at Julian day = 38.260   NIT = 2857998  IZMIN =193 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 38.260   NIT = 2857999
+
+ *************    Adding segments: 383 through 462   NIT = 2857999
+
+ ************* Subtract layer 9 at Julian day = 38.260 NIT = 2858004  IZMIN =179  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 38.260   NIT = 2858004
+
+ ************* Subtract layer 10 at Julian day = 38.260 NIT = 2858008  IZMIN =179  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ *************    Add layer 10 at Julian day = 38.260   NIT = 2858013  IZMIN =179 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 38.260   NIT = 2858054  IZMIN =170 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 38.261   NIT = 2858055
+
+ *************    Adding segments: 383 through 462   NIT = 2858055
+
+ *************    Add layer 8 at Julian day = 38.352   NIT = 2863375  IZMIN =386 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 38.379   NIT = 2865389  IZMIN =414 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 38.399   NIT = 2867105  IZMIN =414 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 38.418   NIT = 2868773  IZMIN =411 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 38.439   NIT = 2870535  IZMIN =416 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 38.482   NIT = 2874257  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 38.530   NIT = 2878227  IZMIN =414 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 39.092 NIT = 2912703  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 39.113 NIT = 2914525  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 39.130 NIT = 2915983  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 39.143 NIT = 2917062  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 39.163 NIT = 2918824  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 39.184 NIT = 2920619  IZMIN =211  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 39.208 NIT = 2922756  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ *************    Add layer 8 at Julian day = 39.296   NIT = 2929774  IZMIN =203 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 39.327   NIT = 2931548  IZMIN =34 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 39.352   NIT = 2932998  IZMIN =20 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 39.366   NIT = 2933746  IZMIN =148 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 39.386   NIT = 2934568  IZMIN =63 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 39.480   NIT = 2941885  IZMIN =392 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 39.548   NIT = 2947611  IZMIN =415 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 40.122 NIT = 2980225  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 40.155 NIT = 2983084  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 40.172 NIT = 2984548  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 40.188 NIT = 2985987  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 40.209 NIT = 2987760  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 40.242 NIT = 2990641  IZMIN =210  WaterBody =    1 *************
+
+ *************    Add layer 7 at Julian day = 40.342   NIT = 2997314  IZMIN =206 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 40.370   NIT = 2998990  IZMIN =91 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 40.399   NIT = 3000505  IZMIN =90 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 40.419   NIT = 3001267  IZMIN =102 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 40.521   NIT = 3008984  IZMIN =380 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 40.589   NIT = 3014708  IZMIN =415 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 41.159 NIT = 3044830  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 41.196 NIT = 3048066  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 41.221 NIT = 3050229  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 41.242 NIT = 3052036  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 41.275 NIT = 3054828  IZMIN =214  WaterBody =    1 *************
+
+ *************    Add layer 6 at Julian day = 41.390   NIT = 3062185  IZMIN =18 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 41.414   NIT = 3063448  IZMIN =123 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 41.447   NIT = 3064783  IZMIN =4 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 41.545   NIT = 3072170  IZMIN =380 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 41.610   NIT = 3077733  IZMIN =415 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 42.196 NIT = 3105549  IZMIN =211  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 42.234 NIT = 3108820  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 42.263 NIT = 3111302  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 42.296 NIT = 3114068  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 42.350 NIT = 3117736  IZMIN =214  WaterBody =    1 *************
+
+ *************    Add layer 6 at Julian day = 42.416   NIT = 3121742  IZMIN =42 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 42.452   NIT = 3123594  IZMIN =4 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 42.480   NIT = 3124540  IZMIN =132 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 42.579   NIT = 3132266  IZMIN =392 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 42.637   NIT = 3137291  IZMIN =415 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 43.238 NIT = 3163732  IZMIN =211  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 43.280 NIT = 3167162  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 43.309 NIT = 3169623  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 43.342 NIT = 3172126  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ *************    Add layer 5 at Julian day = 43.474   NIT = 3180190  IZMIN =4 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 43.495   NIT = 3180961  IZMIN =21 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 43.595   NIT = 3188102  IZMIN =386 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 43.648   NIT = 3192667  IZMIN =414 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 44.284 NIT = 3225359  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 44.330 NIT = 3229088  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 44.367 NIT = 3232118  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 44.405 NIT = 3234772  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ *************    Add layer 5 at Julian day = 44.476   NIT = 3239208  IZMIN =201 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 44.507   NIT = 3240727  IZMIN =90 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 44.595   NIT = 3247010  IZMIN =219 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 44.650   NIT = 3251774  IZMIN =415 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 44.917 NIT = 3271266  IZMIN =210  WaterBody =    1 *************
+
+ *************    Add layer 2 at Julian day = 45.128   NIT = 3289322  IZMIN =380 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 45.321 NIT = 3305770  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 45.367 NIT = 3309734  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 45.396 NIT = 3312236  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 45.430 NIT = 3315143  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ *************    Add layer 5 at Julian day = 45.501   NIT = 3321277  IZMIN =195 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 45.535   NIT = 3324263  IZMIN =4 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 45.612   NIT = 3330802  IZMIN =219 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 45.661   NIT = 3334966  IZMIN =415 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 45.896 NIT = 3355206  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 45.934 NIT = 3358452  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 45.980 NIT = 3362414  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ *************    Add layer 4 at Julian day = 46.046   NIT = 3368136  IZMIN =20 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 46.136   NIT = 3375865  IZMIN =219 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 46.202   NIT = 3381571  IZMIN =386 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 46.351 NIT = 3394244  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 46.400 NIT = 3398526  IZMIN =214  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 46.430 NIT = 3401068  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 46.475 NIT = 3405036  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ *************    Add layer 5 at Julian day = 46.510   NIT = 3407978  IZMIN =70 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 46.547   NIT = 3411214  IZMIN =90 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 46.626   NIT = 3418025  IZMIN =233 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 46.673   NIT = 3422080  IZMIN =386 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 46.901 NIT = 3441626  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 46.930 NIT = 3444151  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 46.955 NIT = 3446305  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 46.971 NIT = 3447737  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 47.000 NIT = 3450252  IZMIN =211  WaterBody =    1 *************
+
+ *************    Add layer 6 at Julian day = 47.081   NIT = 3457236  IZMIN =20 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 47.102   NIT = 3459034  IZMIN =173 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 47.122   NIT = 3460736  IZMIN =15 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 47.201   NIT = 3467574  IZMIN =233 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 47.254   NIT = 3472153  IZMIN =415 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 47.384 NIT = 3483354  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 47.430 NIT = 3487320  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 47.471 NIT = 3490879  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ *************    Add layer 4 at Julian day = 47.554   NIT = 3498068  IZMIN =21 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 47.627   NIT = 3504306  IZMIN =233 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 47.676   NIT = 3508503  IZMIN =380 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 47.921 NIT = 3529733  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 47.942 NIT = 3531541  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 47.955 NIT = 3532634  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 47.975 NIT = 3534406  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 47.984 NIT = 3535174  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 48.013 NIT = 3537624  IZMIN =214  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 48.025 NIT = 3538730  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ *************    Add layer 8 at Julian day = 48.092   NIT = 3544511  IZMIN =204 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 48.119   NIT = 3546794  IZMIN =214 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 48.141   NIT = 3548690  IZMIN =41 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 48.153   NIT = 3549718  IZMIN =48 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 48.171   NIT = 3551284  IZMIN =81 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 48.244   NIT = 3557636  IZMIN =219 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 48.292   NIT = 3561761  IZMIN =380 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 48.421 NIT = 3572942  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 48.463 NIT = 3576547  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 48.505 NIT = 3580149  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ *************    Add layer 4 at Julian day = 48.544   NIT = 3583515  IZMIN =460 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 48.631   NIT = 3590994  IZMIN =233 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 48.682   NIT = 3595401  IZMIN =380 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 48.934 NIT = 3617186  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 48.955 NIT = 3618993  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 48.971 NIT = 3620422  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 48.980 NIT = 3621154  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 48.996 NIT = 3622556  IZMIN =211  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 49.005 NIT = 3623280  IZMIN =211  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 49.021 NIT = 3624718  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 49.034 NIT = 3625800  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 49.034   NIT = 3625800
+
+ ************* Subtract layer 10 at Julian day = 49.063 NIT = 3628298  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ *************    Add layer 10 at Julian day = 49.117   NIT = 3632998  IZMIN =208 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 49.138   NIT = 3634801  IZMIN =204 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 49.138   NIT = 3634802
+
+ *************    Adding segments: 383 through 462   NIT = 3634802
+
+ ************* Subtract layer 9 at Julian day = 49.138 NIT = 3634810  IZMIN =179  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 49.138   NIT = 3634810
+
+ *************    Add layer 9 at Julian day = 49.139   NIT = 3634894  IZMIN =189 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 49.139   NIT = 3634895
+
+ *************    Adding segments: 383 through 462   NIT = 3634895
+
+ *************    Add layer 8 at Julian day = 49.210   NIT = 3641072  IZMIN =386 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 49.236   NIT = 3643253  IZMIN =414 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 49.254   NIT = 3644857  IZMIN =415 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 49.272   NIT = 3646343  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 49.289   NIT = 3647898  IZMIN =411 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 49.324   NIT = 3650893  IZMIN =411 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 49.362   NIT = 3654178  IZMIN =410 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 49.446 NIT = 3661441  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 49.501 NIT = 3666136  IZMIN =206  WaterBody =    1 *************
+
+ *************    Add layer 3 at Julian day = 49.647   NIT = 3678624  IZMIN =237 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 49.696   NIT = 3682848  IZMIN =418 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 49.959 NIT = 3705372  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 49.980 NIT = 3707174  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 49.992 NIT = 3708242  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 50.001 NIT = 3708966  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 50.013 NIT = 3710031  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 50.025 NIT = 3711101  IZMIN =212  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 50.030 NIT = 3711483  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 50.046 NIT = 3712908  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 50.046   NIT = 3712908
+
+ ************* Subtract layer 10 at Julian day = 50.059 NIT = 3713993  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ ************* Subtract layer 11 at Julian day = 50.075 NIT = 3715410  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 22 through 159
+
+ *************    Add layer 11 at Julian day = 50.155   NIT = 3722273  IZMIN =209 Waterbody =    1 *************
+
+                  Add segments 22 through 159
+
+ *************    Add layer 10 at Julian day = 50.177   NIT = 3724227  IZMIN =93 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 50.207   NIT = 3726845  IZMIN =49 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 50.208   NIT = 3726846
+
+ *************    Adding segments: 383 through 462   NIT = 3726846
+
+ ************* Subtract layer 9 at Julian day = 50.208 NIT = 3726865  IZMIN =462  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 50.208   NIT = 3726865
+
+ *************    Add layer 9 at Julian day = 50.208   NIT = 3726873  IZMIN =22 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 50.208   NIT = 3726874
+
+ *************    Adding segments: 383 through 462   NIT = 3726874
+
+ ************* Subtract layer 9 at Julian day = 50.208 NIT = 3726880  IZMIN =179  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 50.208   NIT = 3726880
+
+ ************* Subtract layer 10 at Julian day = 50.208 NIT = 3726883  IZMIN =179  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ *************    Add layer 10 at Julian day = 50.208   NIT = 3726887  IZMIN =179 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 50.208   NIT = 3726891  IZMIN =22 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 50.208   NIT = 3726892
+
+ *************    Adding segments: 383 through 462   NIT = 3726892
+
+ *************    Add layer 8 at Julian day = 50.252   NIT = 3730651  IZMIN =391 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 50.277   NIT = 3732815  IZMIN =382 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 50.295   NIT = 3734365  IZMIN =402 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 50.311   NIT = 3735824  IZMIN =382 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 50.329   NIT = 3737313  IZMIN =396 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 50.363   NIT = 3740258  IZMIN =380 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 50.402   NIT = 3743647  IZMIN =402 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 50.492 NIT = 3751405  IZMIN =214  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 50.555 NIT = 3756845  IZMIN =206  WaterBody =    1 *************
+
+ *************    Add layer 3 at Julian day = 50.634   NIT = 3763681  IZMIN =217 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 50.704   NIT = 3769706  IZMIN =398 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 50.988 NIT = 3794054  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 51.009 NIT = 3795837  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 51.021 NIT = 3796907  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 51.026 NIT = 3797318  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 51.038 NIT = 3798347  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 51.050 NIT = 3799426  IZMIN =211  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 51.059 NIT = 3800145  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 51.067 NIT = 3800870  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 51.067   NIT = 3800870
+
+ ************* Subtract layer 10 at Julian day = 51.084 NIT = 3802309  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ ************* Subtract layer 11 at Julian day = 51.100 NIT = 3803724  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 22 through 159
+
+ ************* Subtract layer 12 at Julian day = 51.117 NIT = 3805167  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 160 through 165
+
+ *************    Branch Inactive: 4 at Julian day = 51.117   NIT = 3805167
+
+ *************    Add layer 12 at Julian day = 51.175   NIT = 3810232  IZMIN =208 Waterbody =    1 *************
+
+                  Add segments 160 through 165
+ *************    Branch Active: 4 at Julian day = 51.175   NIT = 3810233
+
+ *************    Adding segments: 465 through 487   NIT = 3810233
+
+ *************    Add layer 11 at Julian day = 51.201   NIT = 3812430  IZMIN =193 Waterbody =    1 *************
+
+                  Add segments 22 through 159
+
+ *************    Add layer 10 at Julian day = 51.256   NIT = 3817156  IZMIN =28 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 51.274   NIT = 3818776  IZMIN =21 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 51.274   NIT = 3818777
+
+ *************    Adding segments: 383 through 462   NIT = 3818777
+
+ *************    Add layer 8 at Julian day = 51.286   NIT = 3819754  IZMIN =12 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 51.291   NIT = 3820258  IZMIN =9 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 51.296   NIT = 3820630  IZMIN =11 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 51.333   NIT = 3823827  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 51.370   NIT = 3827015  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 51.433   NIT = 3832452  IZMIN =416 Waterbody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 51.538 NIT = 3841566  IZMIN =460  WaterBody =    1 *************
+
+ *************    Add layer 3 at Julian day = 51.734   NIT = 3858502  IZMIN =410 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 51.771   NIT = 3861730  IZMIN =392 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 52.021 NIT = 3883320  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 52.038 NIT = 3884753  IZMIN =209  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 52.047 NIT = 3885516  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 52.059 NIT = 3886550  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 52.067 NIT = 3887271  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 52.075 NIT = 3887992  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 52.088 NIT = 3889067  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 52.096 NIT = 3889807  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 52.096   NIT = 3889807
+
+ ************* Subtract layer 10 at Julian day = 52.109 NIT = 3890884  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ ************* Subtract layer 11 at Julian day = 52.121 NIT = 3891956  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 22 through 159
+
+ ************* Subtract layer 12 at Julian day = 52.146 NIT = 3894082  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 160 through 165
+
+ *************    Branch Inactive: 4 at Julian day = 52.146   NIT = 3894082
+
+ *************    Add layer 12 at Julian day = 52.217   NIT = 3900224  IZMIN =209 Waterbody =    1 *************
+
+                  Add segments 160 through 165
+ *************    Branch Active: 4 at Julian day = 52.217   NIT = 3900225
+
+ *************    Adding segments: 465 through 487   NIT = 3900225
+
+ *************    Add layer 11 at Julian day = 52.236   NIT = 3901827  IZMIN =210 Waterbody =    1 *************
+
+                  Add segments 22 through 159
+
+ *************    Add layer 10 at Julian day = 52.305   NIT = 3907855  IZMIN =22 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 52.316   NIT = 3908749  IZMIN =21 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 52.316   NIT = 3908750
+
+ *************    Adding segments: 383 through 462   NIT = 3908750
+
+ *************    Add layer 8 at Julian day = 52.326   NIT = 3909628  IZMIN =10 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 52.331   NIT = 3910051  IZMIN =4 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 52.343   NIT = 3911141  IZMIN =179 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 52.368   NIT = 3913310  IZMIN =431 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 52.418   NIT = 3917618  IZMIN =415 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ ************* Subtract layer 4 at Julian day = 52.606 NIT = 3933846  IZMIN =460  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ *************    Add layer 4 at Julian day = 52.704   NIT = 3942294  IZMIN =381 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 52.781   NIT = 3948964  IZMIN =394 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 52.811   NIT = 3951566  IZMIN =392 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 53.048 NIT = 3972002  IZMIN =460  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 53.071 NIT = 3974047  IZMIN =206  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 53.084 NIT = 3975114  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 53.092 NIT = 3975832  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 53.105 NIT = 3976905  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 53.117 NIT = 3977964  IZMIN =214  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 53.121 NIT = 3978354  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 53.134 NIT = 3979428  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 53.134   NIT = 3979428
+
+ ************* Subtract layer 10 at Julian day = 53.146 NIT = 3980523  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ ************* Subtract layer 11 at Julian day = 53.159 NIT = 3981571  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 22 through 159
+
+ ************* Subtract layer 12 at Julian day = 53.179 NIT = 3983370  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 160 through 165
+
+ *************    Branch Inactive: 4 at Julian day = 53.179   NIT = 3983370
+
+ *************    Add layer 12 at Julian day = 53.247   NIT = 3989183  IZMIN =204 Waterbody =    1 *************
+
+                  Add segments 160 through 165
+ *************    Branch Active: 4 at Julian day = 53.247   NIT = 3989184
+
+ *************    Adding segments: 465 through 487   NIT = 3989184
+
+ *************    Add layer 11 at Julian day = 53.268   NIT = 3991001  IZMIN =193 Waterbody =    1 *************
+
+                  Add segments 22 through 159
+
+ *************    Add layer 10 at Julian day = 53.338   NIT = 3997039  IZMIN =22 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 53.350   NIT = 3998091  IZMIN =21 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 53.350   NIT = 3998092
+
+ *************    Adding segments: 383 through 462   NIT = 3998092
+
+ *************    Add layer 8 at Julian day = 53.359   NIT = 3998918  IZMIN =7 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 53.379   NIT = 4000637  IZMIN =179 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 53.394   NIT = 4001931  IZMIN =179 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 53.438   NIT = 4005705  IZMIN =416 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 53.482   NIT = 4009529  IZMIN =429 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ ************* Subtract layer 4 at Julian day = 53.616 NIT = 4021098  IZMIN =460  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ *************    Add layer 4 at Julian day = 53.771   NIT = 4034457  IZMIN =406 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 53.828   NIT = 4039397  IZMIN =382 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 53.856   NIT = 4041857  IZMIN =380 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 54.069 NIT = 4060212  IZMIN =460  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 54.098 NIT = 4062742  IZMIN =461  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 54.122 NIT = 4064780  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 54.130 NIT = 4065479  IZMIN =209  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 54.142 NIT = 4066555  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 54.150 NIT = 4067275  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 54.167 NIT = 4068701  IZMIN =212  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 54.175 NIT = 4069432  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 54.175   NIT = 4069432
+
+ ************* Subtract layer 10 at Julian day = 54.188 NIT = 4070509  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ ************* Subtract layer 11 at Julian day = 54.209 NIT = 4072317  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 22 through 159
+
+ ************* Subtract layer 12 at Julian day = 54.246 NIT = 4075524  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 160 through 165
+
+ *************    Branch Inactive: 4 at Julian day = 54.246   NIT = 4075524
+
+ *************    Add layer 12 at Julian day = 54.271   NIT = 4077712  IZMIN =209 Waterbody =    1 *************
+
+                  Add segments 160 through 165
+ *************    Branch Active: 4 at Julian day = 54.271   NIT = 4077713
+
+ *************    Adding segments: 465 through 487   NIT = 4077713
+
+ *************    Add layer 11 at Julian day = 54.297   NIT = 4079904  IZMIN =193 Waterbody =    1 *************
+
+                  Add segments 22 through 159
+
+ *************    Add layer 10 at Julian day = 54.372   NIT = 4086392  IZMIN =23 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 54.384   NIT = 4087420  IZMIN =21 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 54.384   NIT = 4087421
+
+ *************    Adding segments: 383 through 462   NIT = 4087421
+
+ ************* Subtract layer 9 at Julian day = 54.384 NIT = 4087448  IZMIN =179  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 54.384   NIT = 4087448
+
+ *************    Add layer 9 at Julian day = 54.384   NIT = 4087451  IZMIN =179 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 54.384   NIT = 4087452
+
+ *************    Adding segments: 383 through 462   NIT = 4087452
+
+ *************    Add layer 8 at Julian day = 54.434   NIT = 4091815  IZMIN =386 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 54.464   NIT = 4094329  IZMIN =392 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 54.485   NIT = 4096158  IZMIN =382 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 54.507   NIT = 4098080  IZMIN =386 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 54.532   NIT = 4100276  IZMIN =381 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 54.852   NIT = 4127861  IZMIN =398 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 54.892   NIT = 4131320  IZMIN =380 Waterbody =    1 *************
+
+ ************* Subtract layer 2 at Julian day = 55.113 NIT = 4150404  IZMIN =460  WaterBody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 55.146 NIT = 4153275  IZMIN =461  WaterBody =    1 *************
+
+ ************* Subtract layer 4 at Julian day = 55.159 NIT = 4154416  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 380 through 380
+
+ ************* Subtract layer 5 at Julian day = 55.172 NIT = 4155498  IZMIN =206  WaterBody =    1 *************
+
+                  Subtract segments 381 through 381
+
+ ************* Subtract layer 6 at Julian day = 55.184 NIT = 4156551  IZMIN =210  WaterBody =    1 *************
+
+ ************* Subtract layer 7 at Julian day = 55.196 NIT = 4157605  IZMIN =214  WaterBody =    1 *************
+
+ ************* Subtract layer 8 at Julian day = 55.209 NIT = 4158719  IZMIN =210  WaterBody =    1 *************
+
+                  Subtract segments 2 through 3
+
+                  Subtract segments 382 through 382
+
+ ************* Subtract layer 9 at Julian day = 55.221 NIT = 4159784  IZMIN =212  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 55.221   NIT = 4159784
+
+ ************* Subtract layer 10 at Julian day = 55.242 NIT = 4161568  IZMIN =214  WaterBody =    1 *************
+
+                  Subtract segments 20 through 21
+
+ ************* Subtract layer 11 at Julian day = 55.259 NIT = 4163034  IZMIN =211  WaterBody =    1 *************
+
+                  Subtract segments 22 through 159
+
+ *************    Add layer 11 at Julian day = 55.317   NIT = 4168089  IZMIN =206 Waterbody =    1 *************
+
+                  Add segments 22 through 159
+
+ *************    Add layer 10 at Julian day = 55.401   NIT = 4175360  IZMIN =23 Waterbody =    1 *************
+
+                  Add segments 20 through 21
+
+ *************    Add layer 9 at Julian day = 55.416   NIT = 4176576  IZMIN =20 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 55.416   NIT = 4176577
+
+ *************    Adding segments: 383 through 462   NIT = 4176577
+
+ ************* Subtract layer 9 at Julian day = 55.416 NIT = 4176605  IZMIN =179  WaterBody =    1 *************
+
+                  Subtract segments 4 through 19
+
+ *************    Branch Inactive: 3 at Julian day = 55.416   NIT = 4176605
+
+ *************    Add layer 9 at Julian day = 55.416   NIT = 4176610  IZMIN =20 Waterbody =    1 *************
+
+                  Add segments 4 through 19
+ *************    Branch Active: 3 at Julian day = 55.416   NIT = 4176611
+
+ *************    Adding segments: 383 through 462   NIT = 4176611
+
+ *************    Add layer 8 at Julian day = 55.460   NIT = 4180416  IZMIN =387 Waterbody =    1 *************
+
+                  Add segments 2 through 3
+
+                  Add segments 382 through 382
+
+ *************    Add layer 7 at Julian day = 55.494   NIT = 4183375  IZMIN =387 Waterbody =    1 *************
+
+ *************    Add layer 6 at Julian day = 55.516   NIT = 4185234  IZMIN =382 Waterbody =    1 *************
+
+ *************    Add layer 5 at Julian day = 55.536   NIT = 4186994  IZMIN =394 Waterbody =    1 *************
+
+                  Add segments 381 through 381
+
+ *************    Add layer 4 at Julian day = 55.560   NIT = 4189051  IZMIN =381 Waterbody =    1 *************
+
+                  Add segments 380 through 380
+
+ *************    Add layer 3 at Julian day = 55.626   NIT = 4194773  IZMIN =382 Waterbody =    1 *************
+
+ ************* Subtract layer 3 at Julian day = 55.710 NIT = 4202040  IZMIN =460  WaterBody =    1 *************
+
+ *************    Add layer 3 at Julian day = 55.904   NIT = 4218812  IZMIN =390 Waterbody =    1 *************
+
+ *************    Add layer 2 at Julian day = 55.959   NIT = 4223530  IZMIN =386 Waterbody =    1 *************

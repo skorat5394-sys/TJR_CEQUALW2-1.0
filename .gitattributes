@@ -1,0 +1,2 @@
+*.opt* filter=lfs diff=lfs merge=lfs -text
+*.w2l* filter=lfs diff=lfs merge=lfs -text
